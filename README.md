@@ -23,6 +23,9 @@ https://www.getpostman.com/collections/b16f8fafa3da12b20a28<br><br><br>
 Próximas features:<br>
 -Ajuste swagger com autenticação oauth2.<br>
 -melhoria na cobertura de código (testes unitários).<br>
--implementação de controle de estoque de acordo com pedidos.<br>
+-implementação de controle de estoque de acordo com pedidos.<br><br><br><br><br>
 
+#Repositórios utilizando tecnologia similares:
+https://github.com/viniciusde/expense-service (api de despesas)
+https://github.com/viniciusde/expense-webclient (client com thymeleaf, spring 5 reativo).
 
