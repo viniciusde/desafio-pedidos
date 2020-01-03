@@ -1,7 +1,7 @@
 # desafio-pedidos
 Rest API 
 
-API desenvolvida utilizando java 8, springboot, spring data, spring security, lombok, swagger, mysql e deploy no heroku.
+API desenvolvida utilizando java 8, springboot, spring data, spring security, lombok, swagger, flyway, mysql e deploy no heroku.
 Para autenticação, foi utilizado o flow Password do oauth2.
 
 OAuth2 - Password flow<br>
