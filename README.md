@@ -25,7 +25,7 @@ Próximas features:<br>
 -melhoria na cobertura de código (testes unitários).<br>
 -implementação de controle de estoque de acordo com pedidos.<br><br><br><br><br>
 
-#Repositórios utilizando tecnologia similares:
-https://github.com/viniciusde/expense-service (api de despesas)
+#Repositórios utilizando tecnologia similares:<br>
+https://github.com/viniciusde/expense-service (api de despesas)<br>
 https://github.com/viniciusde/expense-webclient (client com thymeleaf, spring 5 reativo).
 
