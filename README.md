@@ -4,25 +4,25 @@ Rest API
 API desenvolvida utilizando java 8, springboot, spring data, spring security, lombok, swagger, mysql e deploy no heroku.
 Para autenticação, foi utilizado o flow Password do oauth2.
 
-OAuth2 - Password flow
-client id: $2a$10$f.U73hGiJNsjoD3NTJoz2e6DNdPbWRqEbdJplGQ2dmg.wXoc6qJQ6
-secret id: $2a$10$bST.xIbU4lS7L9GLWETuL.4L5hUmUP.Q8FMOfAt4JvzybGKaENs0q
+OAuth2 - Password flow<br>
+client id: $2a$10$f.U73hGiJNsjoD3NTJoz2e6DNdPbWRqEbdJplGQ2dmg.wXoc6qJQ6<br>
+secret id: $2a$10$bST.xIbU4lS7L9GLWETuL.4L5hUmUP.Q8FMOfAt4JvzybGKaENs0q<br><br>
 
-usuário - perfil (USER) - acessos: api/pedidos
-username: usu@usuario
-pass: 123
+usuário - perfil (USER) - acessos: api/pedidos<br>
+username: usu@usuario<br>
+pass: 123<br><br>
 
-usuário - perfil (ADMIN) - acessos: api/produtos; api/categorias; api/clientes; api/pedidos.
-username: usu@admin
-pass: 123
+usuário - perfil (ADMIN) - acessos: api/produtos; api/categorias; api/clientes; api/pedidos.<br>
+username: usu@admin<br>
+pass: 123<br><br>
 
-Collection Postman
-https://www.getpostman.com/collections/b16f8fafa3da12b20a28
+Collection Postman<br>
+https://www.getpostman.com/collections/b16f8fafa3da12b20a28<br><br><br>
 
 
-Próximas features:
--Ajuste swagger com autenticação oauth2.
--melhoria na cobertura de código (testes unitários).
--implementação de controle de estoque de acordo com pedidos.
+Próximas features:<br>
+-Ajuste swagger com autenticação oauth2.<br>
+-melhoria na cobertura de código (testes unitários).<br>
+-implementação de controle de estoque de acordo com pedidos.<br>
 
 
